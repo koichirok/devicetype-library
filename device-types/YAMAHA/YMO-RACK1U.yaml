@@ -1,0 +1,17 @@
+---
+manufacturer: YAMAHA
+model: YMO-RACK1U
+slug: yamaha-ymo-rack1u
+u_height: 1
+comments: |
+  Rack mount kit for YAMAHA routers, firewalls, and switches.
+  https://network.yamaha.com/products/options/ymo-rack1u/index
+subdevice_role: parent
+is_full_depth: false
+airflow: passive
+weight: 1.7
+weight_unit: kg
+is_powered: false
+device-bays:
+  - name: Left Side
+  - name: Right Side
